@@ -10,8 +10,7 @@ const termos_de_uso = `<main class="termos">
 		<h2>Termos Gerais</h2>
 
 		<p>
-			O presente Termo de Uso entra em vigor na data de seu aceite e vigorará pelo prazo de 1 (um) ano, sendo renovado a partir da renovação do plano anual contratado. Considerando que a internet é um sistema mutável e está em constante evolução, sendo essencial que as empresas que atuam por meio dela também mantenham-se atualizadas, de forma a buscar a melhor comunicação possível com seus usuários, a {{nome}} se reserva o direito de, a qualquer tempo e a sua exclusiva discricionariedade, aditar o presente Termo de Uso e sua Política de Privacidade. Você como Usuário, desde já aceita que os Termos Atualizados serão disponibilizados por meio do Software e/ou Site da {{nome}}, compromete-se a lê-los integralmente e, caso não concorde com os Termos Atualizados, sugerimos que nos comunique através do e-mail {{email}} e deixe de utilizar nosso Serviço imediatamente. A {{nome}} ainda se reserva o direito de fazer alterações no Software, bem como em seus Serviços, visando sempre a melhoria dos Serviços aos Usuários. Em respeito à legislação vigente e para garantir controle e segurança dos Serviços, a {{nome}} se reserva o: (i) direito de definir critérios de acesso e elegibilidade aos Serviços a qualquer pessoa a seu exclusivo critério; (ii) direito de bloquear, editar, remover ou monitorar o acesso do Usuário, conteúdos e/ou contas,que estejam desrespeitando o presente Termo de Uso e/ou a Política de Privacidade e/ou qualquer legislação vigente aplicável. Caso a {{nome}} ou o Usuário resolva cancelar o acesso aos Serviços, todo o conteúdo, incluindo, mas não se limitando a informações contábeis, documentos, títulos, notas, pagamentos, enfim, toda informação compartilhada ou inserida pelo Usuário no/por meio dos Serviços (“Conteúdo”), será disponibilizado pelo período de 30 (trinta) dias, contados do cancelamento do acesso. Após este período, o Conteúdo deixará de ser acessível pela conta ao Usuário. A {{nome}} reserva o direito de modificar seus Serviços, ressalvado o acima disposto, sem a necessidade de envio de aviso prévio ao Usuário e a qualquer tempo, à discricionariedade exclusiva da {{nome}}, não cabendo qualquer responsabilidade a {{nome}} nesse sentido. Caso o serviço venha a ser cancelado pela {{nome}}, o Usuário receberá comunicação por e-mail com antecedência de 30 (trinta) dias. A {{nome}} também enviará ao Usuário o termo de transferência técnica, se cabível. A {{nome}} ainda poderá bloquear o acessoao Software ao Usuário e cessar a prestação de Serviço ao Usuário que esteja desrespeitando as
-			regras de conteúdo aqui estabelecidas ou as normas legais em vigor, a qualquer tempo e sem a necessidade de prévio aviso ao Usuário, situação em que o Conteúdo também será bloqueado.
+			O presente Termo de Uso entra em vigor na data de seu aceite e vigorará pelo prazo de 1 (um) ano, sendo renovado a partir da renovação do plano anual contratado. Considerando que a internet é um sistema mutável e está em constante evolução, sendo essencial que as empresas que atuam por meio dela também mantenham-se atualizadas, de forma a buscar a melhor comunicação possível com seus usuários, a {{nome}} se reserva o direito de, a qualquer tempo e a sua exclusiva discricionariedade, aditar o presente Termo de Uso e sua Política de Privacidade. Você como Usuário, desde já aceita que os Termos Atualizados serão disponibilizados por meio do Software e/ou Site da {{nome}}, compromete-se a lê-los integralmente e, caso não concorde com os Termos Atualizados, sugerimos que nos comunique através do e-mail contato@{{dominio}}.com.br e deixe de utilizar nosso Serviço imediatamente. A {{nome}} ainda se reserva o direito de fazer alterações no Software, bem como em seus Serviços, visando sempre a melhoria dos Serviços aos Usuários. Em respeito à legislação vigente e para garantir controle e segurança dos Serviços, a {{nome}} se reserva o: (i) direito de definir critérios de acesso e elegibilidade aos Serviços a qualquer pessoa a seu exclusivo critério; (ii) direito de bloquear, editar, remover ou monitorar o acesso do Usuário, conteúdos e/ou contas,que estejam desrespeitando o presente Termo de Uso e/ou a Política de Privacidade e/ou qualquer legislação vigente aplicável. Caso a {{nome}} ou o Usuário resolva cancelar o acesso aos Serviços, todo o conteúdo, incluindo, mas não se limitando a informações contábeis, documentos, títulos, notas, pagamentos, enfim, toda informação compartilhada ou inserida pelo Usuário no/por meio dos Serviços (“Conteúdo”), será disponibilizado pelo período de 30 (trinta) dias, contados do cancelamento do acesso. Após este período, o Conteúdo deixará de ser acessível pela conta ao Usuário. A {{nome}} reserva o direito de modificar seus Serviços, ressalvado o acima disposto, sem a necessidade de envio de aviso prévio ao Usuário e a qualquer tempo, à discricionariedade exclusiva da {{nome}}, não cabendo qualquer responsabilidade a {{nome}} nesse sentido. Caso o serviço venha a ser cancelado pela {{nome}}, o Usuário receberá comunicação por e-mail com antecedência de 30 (trinta) dias. A {{nome}} também enviará ao Usuário o termo de transferência técnica, se cabível. A {{nome}} ainda poderá bloquear o acessoao Software ao Usuário e cessar a prestação de Serviço ao Usuário que esteja desrespeitando as regras de conteúdo aqui estabelecidas ou as normas legais em vigor, a qualquer tempo e sem a necessidade de prévio aviso ao Usuário, situação em que o Conteúdo também será bloqueado.
 		</p>
 
 		<h2>Licença de Uso do Software</h2>
@@ -46,7 +45,7 @@ const termos_de_uso = `<main class="termos">
 
 		<p>Informar à {{nome}} sempre que houver qualquer alteração do Conteúdo que possa impedir, limitar e/ou prejudicar o acesso ao Conteúdo necessário para a execução das funcionalidades ofertadas pelo Software.</p>
 
-		<p>Caso o Usuário acredite que seu login e senha de acesso aos Serviços tenham sido apropriados por outrem e/ou sejam de conhecimento de outras pessoas, por qualquer razão, deverá imediatamente comunicar por escrito à {{nome}}, através do e-mail {{email}}, sem prejuízo da alteração de senha imediata por meio do Software.</p>
+		<p>Caso o Usuário acredite que seu login e senha de acesso aos Serviços tenham sido apropriados por outrem e/ou sejam de conhecimento de outras pessoas, por qualquer razão, deverá imediatamente comunicar por escrito à {{nome}}, através do e-mail contato@{{dominio}}.com.br, sem prejuízo da alteração de senha imediata por meio do Software.</p>
 
 		<p>O Usuário concorda e tem ciência que é o responsável exclusivo por todos os custos e despesas referentes ao seu acesso e uso dos Serviços, incluindo, mas não se limitando a mensagem, conexão de internet e demais custos incorridos em conexão ao uso dos Serviços;</p>
 
@@ -56,7 +55,7 @@ const termos_de_uso = `<main class="termos">
 
 		<p>Fornecer, ato contínuo ao aceite deste Termo de Uso, acesso ao Software pelo prazo estabelecido entre as Partes; Alterar as especificações e/ou características do Software licenciados para a melhoria e/ou correções de erros;</p>
 
-		<p>Disponibilizar acesso aos serviços de suporte através de correio eletrônico ({{email}}), para esclarecimento de dúvidas de ordem não funcional diretamente relacionadas a problemas no Software;</p>
+		<p>Disponibilizar acesso aos serviços de suporte através de correio eletrônico (contato@{{dominio}}.com.br), para esclarecimento de dúvidas de ordem não funcional diretamente relacionadas a problemas no Software;</p>
 
 		<p>Envidar melhores esforços para manter as informações financeiras, de conta e pessoais do Usuário, bem como registros de acesso, em sigilo, nos termos deste Termo de Uso à exceção por determinação legal conforme as Leis da República Federativa do Brasil.</p>
 
@@ -144,7 +143,7 @@ const politicas_de_privacidade =`<main class="termos">
 			<h2>Localização</h2>
 			<p>Com o seu consentimento, nós também poderemos coletar informações sobre sua latitude e longitude (através de um recurso de localização ou mapa) para indicar, por exemplo, as melhores oportunidades de trocas próximas a você. Se não desejar compartilhar a sua localização conosco, você poderá desligar os serviços de localização através das configurações do seu dispositivo móvel.</p>
 
-			<h2>Seu endereço de IP</h2>	
+			<h2>Seu endereço de IP</h2>
 			<p>Como ocorre com a maioria dos sites e portais, cada vez que você usa o serviço, nós podemos automaticamente coletar seu endereço IP (e detalhes da página web de onde você veio). Utilizamos esta informação com o intuito de administrar e aperfeiçoar o serviço, buscando identificar problemas, além de ajudar a identificar e recolher informação demográfica sobre você.</p>
 
 			<h2>Cookies</h2>
@@ -169,7 +168,7 @@ const politicas_de_privacidade =`<main class="termos">
 			<p>Ao desativar sua conta, você ainda poderá reativar o acesso ao aplicativo durante um período de 90 dias, fazendo uso do seu login e senha. Após este período, o acesso ao aplicativo ficará inacessível em definitivo.</p>
 			<h2>Durante quanto tempo manteremos os seus dados pessoais</h2>
 			<p>A  {{nome}} manterá as suas informações armazenadas pelo tempo que for necessário para garantir o bom funcionamento do serviço. Quando as suas informações não forem mais necessárias para lhe fornecer o serviço, só as conservaremos se tivermos um propósito comercial legítimo de manter tais dados.</p>
-			<p>Você poderá solicitar a remoção de todos os seus dados após o encerramento da sua conta no aplicativo, enviando sua solicitação para o {{email}}.</p>
+			<p>Você poderá solicitar a remoção de todos os seus dados após o encerramento da sua conta no aplicativo, enviando sua solicitação para o contato@{{dominio}}.com.br.</p>
 			<p>Respeitando a legislação brasileira, manteremos armazenados os dados que nos tenham requerido expressamente sua remoção, para cumprir as nossas obrigações legais e dar cumprimento ao disposto nos Termos e condições gerais de uso, ou quando for necessário para a instauração, exercício ou defesa de ações judiciais.</p>
 
 	</main>`
@@ -178,10 +177,20 @@ function substituirTexto(texto, valores){
     return texto
     .replaceAll("{{nome}}", valores.nome)
     .replaceAll("{{razaosocial}}", valores.razaosocial)
-    .replaceAll("{{email}}", valores.email)
+    .replaceAll("{{dominio}}", valores.dominio)
     .replaceAll("{{cnpj}}", valores.cnpj)
     .replaceAll("{{rua}}", valores.rua)
     .replaceAll("{{cidade}}", valores.cidade);
+}
+
+function enviarTA(urlPoliticas, urlTermos){
+	document.getElementById('politica-privacidade').value = urlPoliticas;
+	document.getElementById('termos-uso').value = urlTermos;
+}
+
+function copiar(id){
+	const valor = document.getElementById(id).value;
+	navigator.clipboard.writeText(valor);
 }
 
 botao = document.getElementById("gerar-ta").addEventListener("click", async function(event){
@@ -192,7 +201,6 @@ botao = document.getElementById("gerar-ta").addEventListener("click", async func
 		dominio: document.getElementById("dominio").value,
 		nome: document.getElementById("name").value,
 		razaosocial: document.getElementById("razaosocial").value,
-		email: document.getElementById("email").value,
 		cnpj: document.getElementById("cnpj").value,
 		rua: document.getElementById("rua").value,
 		cidade: document.getElementById("cidade").value
@@ -213,4 +221,26 @@ botao = document.getElementById("gerar-ta").addEventListener("click", async func
     link.href = URL.createObjectURL(content);
     link.download = valores.dominio + ".zip";
     link.click();
+
+	const select = document.getElementById('plataforma');
+	const valor = select.value;
+
+	if(valor=="op"){
+		const urlPoliticas = `https://www.openmei.com.br/${valores.dominio}/politica-de-privacidade`;
+		const urlTermos = `https://www.openmei.com.br/${valores.dominio}/termos-de-uso`;
+		enviarTA(urlPoliticas, urlTermos)
+	} else if (valor=="oc"){
+		const urlPoliticas = `https://www.opencon.com.br/parceiros/${valores.dominio}/politica-de-privacidade`;
+		const urlTermos = `https://www.opencon.com.br/parceiros/${valores.dominio}/termos-de-uso`;
+		enviarTA(urlPoliticas, urlTermos)
+	} else if (valor=="am"){
+		const urlPoliticas = `https://agilemei.com.br/parceiros/${valores.dominio}/politica-de-privacidade`;
+		const urlTermos = `https://agilemei.com.br/parceiros/${valores.dominio}/termos-de-uso`;
+		enviarTA(urlPoliticas, urlTermos)
+	} else if(valor=="im"){
+		const urlPoliticas = `https://ideiamei.com.br/parceiro/${valores.dominio}/politica-de-privacidade`;
+		const urlTermos = `https://ideiamei.com.br/parceiro/${valores.dominio}/termos-de-uso`;
+		enviarTA(urlPoliticas, urlTermos)
+	}
+
 });
