@@ -213,8 +213,8 @@ botao = document.getElementById("gerar-ta").addEventListener("click", async func
     const pasta = zip.folder(valores.dominio);
 
     // 3. Usa as variáveis com o texto já substituído
-    pasta.file("termos-de-uso.php", termosFinal);
-    pasta.file("politica-de-privacidade.php", politicaFinal);
+    pasta.file("termos-de-uso.html", termosFinal);
+    pasta.file("politica-de-privacidade.html", politicaFinal);
 
     const content = await zip.generateAsync({ type: "blob" });
     const link = document.createElement("a");
